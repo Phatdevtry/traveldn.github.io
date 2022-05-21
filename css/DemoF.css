@@ -1,0 +1,49 @@
+/* p{
+    font: italic bold 30px arial;
+}
+
+h1{
+    text-transform: lowercase;
+    background:linear-gradient(to right,yellow,red,blue); */
+    /* viet thuong */
+    /* text-decoration: underline; */
+    /* trang tri */
+    /* Direction : điều khiển hướng văn bản hiển thị*/
+    /* direction: ltr; */
+    /*letter-spacing : khoảng cách giữa các kí tự trong 1 từ */
+    /* word-spacing : khoảng cách giữa các từ trong một câu */
+    /* line-height : Khoảng cách giữa các dòng trong một đoạn*/
+    /* text indent: thụt vào đầu dòng của đoạn văn */
+    /* text-shadow : tạo ra bản sao tịnh tiến của câu */
+    /* white space:  */
+    /* text-overflow : xử lí đoạn văn bị tràn */
+/* } */
+/* table tr:nth-child(even){
+    background-color: rgb(37, 239, 172);
+    color: rgb(248, 10, 10);
+}
+tr:nth-child(odd){
+    background-color: brown;
+    color: aliceblue;
+} */
+/* div>p{
+    text-indent: 20px;
+    letter-spacing: 2px;
+} */
+.items{
+    width: 31%;
+    height: 200px;
+    background-color: aquamarine;
+    margin: 10px;
+}
+img{
+    height: auto;
+    max-width: 100%;
+    padding: 10px;
+}
+.menu-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
